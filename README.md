@@ -23,9 +23,9 @@ I'm a student and developer based in India, passionate about building automation
 *   **Interactive Web Experiences:** Custom, themed websites built with React and Tailwind CSS, focusing on creative UI and smooth deployment.
 
 ## 📫 Let's Connect!
-*   **LinkedIn:** [[Your LinkedIn URL]](https://www.linkedin.com/in/harshit-kumar-sharma-02b28037a/)
+*   **[LinkedIn:](https://www.linkedin.com/in/harshit-kumar-sharma-02b28037a/)**
 *   **Email:** harshitkrsharma07@gmail.com
-*   **Portfolio:** [Your Portfolio Link (if you have one)]
+*   **Portfolio:**
 
 ---
 <div align="center">
