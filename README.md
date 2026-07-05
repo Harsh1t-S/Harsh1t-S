@@ -6,7 +6,7 @@ I'm a student and developer based in India, passionate about building automation
 * 🎓 Currently studying and working on various academic and personal tech projects.
 * 💻 Building dynamic web experiences and deploying them using modern tools.
 * 🐍 Writing Python scripts for automation, data extraction, and desktop apps.
-* 🎮 When I'm not coding, you can find me playing *Marvel Rivals*, climbing the ranks in *Bomb Party*, or keeping up with the IPL.
+* 🎮 When I'm not coding, you can find me playing a few games.
 
 ## 🛠️ Tech Stack & Tools
 
@@ -23,9 +23,9 @@ I'm a student and developer based in India, passionate about building automation
 *   **Interactive Web Experiences:** Custom, themed websites built with React and Tailwind CSS, focusing on creative UI and smooth deployment.
 
 ## 📫 Let's Connect!
-*   **[LinkedIn:](https://www.linkedin.com/in/harshit-kumar-sharma-02b28037a/)**
+*   **[LinkedIn](https://www.linkedin.com/in/harshit-kumar-sharma-02b28037a/)**
 *   **Email:** harshitkrsharma07@gmail.com
-*   **Portfolio:**
+*   **Portfolio:** COMING SOON
 
 ---
 <div align="center">
