@@ -24,11 +24,11 @@ I'm a student and developer based in India, passionate about building automation
 
 ## 📫 Let's Connect!
 *   **[LinkedIn](https://www.linkedin.com/in/harshit-kumar-sharma-02b28037a/)**
-*   **Email:** harshitkrsharma07@gmail.com
-*   **Portfolio:** COMING SOON
+*   **Email:** `harshitkrsharma07@gmail.com`
+*   **[Portfolio](https://harshit-portfolio.myvnc.com/)**
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh1t-S&show_icons=true&theme=radium" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Harsh1t-S&show_icons=true&theme=radium" alt="GitHub Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh1t-S&theme=radium" alt="GitHub Streak" />
 </div>
