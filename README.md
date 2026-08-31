@@ -146,13 +146,13 @@ Experiments with graph-based multi-agent workflows, orchestration and tool-using
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshit-kumar-sharma-02b28037a/">
-    <img src="https://img.shields.io/badge/LinkedIn-%E2%86%97-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%E2%86%97-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://harsh1t.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%E2%86%97-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-%E2%86%97-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:harshitkrsharma07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%E2%86%97-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-%E2%86%97-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Harsh1t-S&label=Profile%20Views&color=1f6feb&style=flat" alt="Profile views" />
