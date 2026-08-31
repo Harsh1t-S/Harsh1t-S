@@ -73,6 +73,10 @@ I'm a student developer based in India who likes building **real, end-to-end sof
 
 ### 🛡️ [Aegis](https://github.com/Harsh1t-S/agent-aegis)
 
+<a href="https://agent-aegis.vercel.app">
+  <img src="./assets/project-screenshots/aegis.png" width="100%" alt="Aegis live dashboard" />
+</a>
+
 **CI for AI agents.** Generates test suites from an agent's system prompt and tool schema, runs them in a sandbox, catches reliability and safety regressions, and turns failures into actionable reports.
 
 `Python` `FastAPI` `React` `AI Agents` `PostgreSQL` `Docker`
@@ -84,11 +88,15 @@ I'm a student developer based in India who likes building **real, end-to-end sof
 
 ### 🗺️ [DepthWizard](https://github.com/Harsh1t-S/DepthWizard)
 
+<a href="https://depth-wizard.vercel.app">
+  <img src="./assets/project-screenshots/depthwizard.png" width="100%" alt="DepthWizard live workbench" />
+</a>
+
 GPU-aware monocular-depth evaluation workbench for aerial imagery using **Depth Anything V2**, FastAPI, PyTorch and a React/Vite frontend.
 
 `Python` `PyTorch` `Computer Vision` `FastAPI` `React` `GPU`
 
-[Repository](https://github.com/Harsh1t-S/DepthWizard)
+[Repository](https://github.com/Harsh1t-S/DepthWizard) · [Live Demo](https://depth-wizard.vercel.app)
 
 </td>
 </tr>
