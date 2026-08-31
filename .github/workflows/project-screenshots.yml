@@ -36,7 +36,7 @@ jobs:
       - name: Capture live projects
         run: |
           mkdir -p assets/project-screenshots
-          cat > /tmp/capture.mjs <<'EOF'
+          cat > capture.mjs <<'EOF'
           import { chromium } from 'playwright';
 
           const browser = await chromium.launch({ headless: true });
@@ -83,7 +83,8 @@ jobs:
 
           await browser.close();
           EOF
-          node /tmp/capture.mjs
+          node capture.mjs
+          rm -f capture.mjs package.json package-lock.json
 
       - name: Commit refreshed screenshots
         run: |
