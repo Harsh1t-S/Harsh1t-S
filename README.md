@@ -154,6 +154,8 @@ Experiments with graph-based multi-agent workflows, orchestration and tool-using
   <a href="mailto:harshitkrsharma07@gmail.com">
     <img src="https://img.shields.io/badge/Email-%E2%86%97-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Harsh1t-S&label=Profile%20Views&color=1f6feb&style=flat" alt="Profile views" />
 </p>
 
 <br/>
