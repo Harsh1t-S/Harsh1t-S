@@ -1,179 +1,80 @@
 <p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:161B22,100:1F6FEB&text=Harshit&fontColor=FFFFFF&fontSize=52&fontAlignY=35&desc=Software%20Developer%20%7C%20Backend%20%7C%20AI%20Systems&descAlignY=56&descSize=18&animation=fadeIn"
-    alt="Harshit header"
-  />
-</p>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-kumar-sharma-02b28037a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-harsh1t.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://harsh1t.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitkrsharma07@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=Harsh1t-S&label=Profile%20Views&color=1f6feb&style=flat" alt="Profile Views" />
-
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="./assets/custom/harshit-terminal.svg" width="100%" alt="HARSHIT.EXE custom developer terminal" />
-</p>
-
----
-
-## About Me
-
-I'm a student developer based in India who likes building **real, end-to-end software** — backend APIs, automation, AI systems, ML prototypes and polished web interfaces.
-
-- Building with **Python, FastAPI, React and TypeScript**
-- Exploring **AI agents, RAG, backend reliability and applied ML**
-- Interested in backend engineering, system design and developer tooling
-- Usually learning by shipping something instead of just watching tutorials
-- When I'm not coding, I'm probably gaming or experimenting with another project
-
-> I like projects where **backend engineering, automation, AI and good product design intersect.**
-
----
-
-## Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
-</div>
-
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ [Aegis](https://github.com/Harsh1t-S/agent-aegis)
-
-<a href="https://agent-aegis.vercel.app">
-  <img src="./assets/project-screenshots/aegis.png" width="100%" alt="Aegis live dashboard" />
-</a>
-
-**CI for AI agents.** Generates test suites from an agent's system prompt and tool schema, runs them in a sandbox, catches reliability and safety regressions, and turns failures into actionable reports.
-
-`Python` `FastAPI` `React` `AI Agents` `PostgreSQL` `Docker`
-
-[Repository](https://github.com/Harsh1t-S/agent-aegis) · [Live Demo](https://agent-aegis.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 [Brackets](https://github.com/Harsh1t-S/Brackets)
-
-<a href="https://bracketx.vercel.app">
-  <img src="./assets/project-screenshots/brackets.png" width="100%" alt="Brackets coding practice platform" />
-</a>
-
-A full-stack **coding-practice platform** with curated problems, an in-browser workspace and progress tracking.
-
-`React` `TypeScript` `Express` `Prisma` `PostgreSQL` `Tailwind`
-
-[Repository](https://github.com/Harsh1t-S/Brackets) · [Live Demo](https://bracketx.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔎 [RAG + Query Expansion + Reranker](https://github.com/Harsh1t-S/RAG_with_QueryExpansion_Reranker)
-
-A retrieval pipeline exploring query expansion and reranking to improve the relevance of RAG responses.
-
-`Python` `RAG` `Retrieval` `LLMs`
-
-[Repository](https://github.com/Harsh1t-S/RAG_with_QueryExpansion_Reranker)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 [LangGraph Multi-Agent System](https://github.com/Harsh1t-S/LangGraph_MultiAgentSys)
-
-Experiments with graph-based multi-agent workflows, orchestration and tool-using AI systems.
-
-`Python` `LangGraph` `Agents` `LLMs`
-
-[Repository](https://github.com/Harsh1t-S/LangGraph_MultiAgentSys)
-
-</td>
-</tr>
-</table>
-
----
-
-## Developer Skill Tree
-
-<p align="center">
-  <img src="./assets/custom/skill-tree.svg" width="100%" alt="Harshit's custom RPG-style developer skill tree" />
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Harsh1t-S/Harsh1t-S/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Harsh1t-S/Harsh1t-S/output/github-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/Harsh1t-S/Harsh1t-S/output/github-snake.svg"
-    />
-  </picture>
-</p>
-
----
-
-## Let's Connect
-
-<p align="center">
-  I'm always interested in interesting engineering problems, collaborations and building things that are actually useful.
+  <img src="./assets/custom/hero-terminal-v2.svg" width="100%" alt="Harshit — backend and AI systems builder. Orbit, Aegis, and DepthWizard are online." />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshit-kumar-sharma-02b28037a/"><b>LinkedIn</b></a>
-  &nbsp; • &nbsp;
-  <a href="mailto:harshitkrsharma07@gmail.com"><b>Email</b></a>
-  &nbsp; • &nbsp;
-  <a href="https://harsh1t.vercel.app/"><b>Portfolio</b></a>
+  <a href="https://harsh1t.vercel.app/"><b>Portfolio ↗</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/harshit-kumar-sharma-02b28037a/"><b>LinkedIn ↗</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:harshitkrsharma07@gmail.com"><b>Email ↗</b></a>
 </p>
-
-<br/>
 
 <p align="center">
-  <i>"Build things. Break things. Understand why they broke. Build them better."</i>
+  <b>Systems over demos.</b><br/>
+  I turn fuzzy, high-stakes problems into inspectable software: agent CI,
+  grounded recommenders, product-ready APIs, and applied ML tools with honest limits.
 </p>
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,50:161B22,100:1F6FEB"
-  alt="footer"
-/>
+## Selected work
+
+### 01 / [Orbit — adaptive learning navigator](https://github.com/Harsh1t-S/orbit-navigator)
+
+Turns any stated goal into a prerequisite-locked route of **real, live-sourced learning resources**, fitted to the learner's actual time budget. The model derives the skill graph; a deterministic planner owns the route.
+
+`goal → skill DAG → live discovery → budgeted set cover → topological plan`
+
+**Proof, not promises:** 54 offline tests enforce zero prerequisite violations, hard hour budgets, monotonic readiness, and stable feedback behavior.
+
+[**Try Orbit ↗**](https://orbit-navigator.vercel.app) &nbsp;·&nbsp; [Read the engineering notes](https://github.com/Harsh1t-S/orbit-navigator#readme)
+
+---
+
+### 02 / [Aegis — CI for AI agents](https://github.com/Harsh1t-S/agent-aegis)
+
+Generates realistic, ambiguous, and adversarial tests from an agent's prompt and tool schema, runs them in a sandbox, and grades the **trace—not the sales pitch**. It catches unsafe actions, hallucinated success, tool misuse, goal drift, loops, and overconfidence.
+
+`prompt + tools → generated scenarios → sandboxed traces → evidence-based verdict`
+
+**Interesting bit:** safety is build-gated, and stored traces can be deterministically re-analysed when detectors improve.
+
+[**Open the live console ↗**](https://agent-aegis.vercel.app) &nbsp;·&nbsp; [Inspect the source](https://github.com/Harsh1t-S/agent-aegis)
+
+---
+
+### 03 / [DepthWizard — honest monocular-depth workbench](https://github.com/Harsh1t-S/DepthWizard)
+
+A GPU-aware FastAPI + React workbench for aerial imagery. It runs Depth Anything V2, calibrates relative depth only when an explicit DEM or GCP reference exists, and writes inspectable artifacts for every job.
+
+`RGB image → relative depth → explicit calibration → inspectable DSM + metrics`
+
+**Credibility feature:** demo output, deployment estimates, and benchmark-only fitting are kept deliberately separate—no fabricated accuracy claims.
+
+[**Explore DepthWizard ↗**](https://depth-wizard.vercel.app) &nbsp;·&nbsp; [Read the scientific scope](https://github.com/Harsh1t-S/DepthWizard#readme)
+
+## More things I've shipped
+
+- **[Course Recommender](https://github.com/Harsh1t-S/course-recommender)** — scored **99.71** in HCL AMPlified by reverse-engineering the metric, exactly reconstructing anonymised inputs, and making retrieval deterministic.
+- **[Brackets](https://github.com/Harsh1t-S/Brackets)** — a full-stack coding-practice product with React, TypeScript, Express, Prisma, PostgreSQL, and progress tracking. [Live ↗](https://bracketx.vercel.app)
+- **[Lapsed](https://github.com/Harsh1t-S/lapsed)** — privacy-first civic tech that tracks statutory deadlines and drafts the right appeal locally, with no backend and no personal data leaving the device.
+
+## Capability map
+
+| | |
+|---|---|
+| **Core** | `Python` `TypeScript` `JavaScript` `SQL` |
+| **Systems** | `FastAPI` `Node.js` `PostgreSQL` `Prisma` `Docker` |
+| **AI / ML** | `Agent evaluation` `RAG` `LangGraph` `PyTorch` `Retrieval` |
+| **Product** | `React` `Tailwind CSS` `AWS` `Vercel` `GitHub Actions` |
+
+## Current signal
+
+Building deeper into **AI reliability, backend architecture, and system design**. I learn fastest by shipping an end-to-end path, finding where it lies, and turning that failure into a test.
+
+<p align="center">
+  <br/>
+  <b>Have an interesting engineering problem?</b><br/>
+  <a href="mailto:harshitkrsharma07@gmail.com">Let's compare notes.</a>
+  <br/><br/>
+  <sub><code>build → break → observe → understand → rebuild</code></sub>
+</p>
