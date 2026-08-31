@@ -9,7 +9,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-kumar-sharma-02b28037a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://harsh1t.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-harsh1t.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://harsh1t.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitkrsharma07@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=Harsh1t-S&label=Profile%20Views&color=1f6feb&style=flat" alt="Profile Views" />
@@ -31,42 +31,35 @@
 
 ## About Me
 
-- Student developer based in India.
-- I like building end-to-end software, from backend APIs and automation to polished web interfaces.
-- Currently exploring AI agents, RAG, applied ML, computer vision and intelligent developer tooling.
-- Python is usually my first choice for backend, automation and ML work.
-- I also build full-stack applications with React, TypeScript and modern web tooling.
-- When I'm not coding, I'm probably gaming or experimenting with another project.
+I'm a student developer based in India who likes building **real, end-to-end software** — backend APIs, automation, AI systems, ML prototypes and polished web interfaces.
 
-I enjoy projects where **backend engineering, automation, AI and good product design intersect**.
+- Building with **Python, FastAPI, React and TypeScript**
+- Exploring **AI agents, RAG, computer vision and applied ML**
+- Interested in backend engineering, reliability and developer tooling
+- Usually learning by shipping something instead of just watching tutorials
+- When I'm not coding, I'm probably gaming or experimenting with another project
+
+> I like projects where **backend engineering, automation, AI and good product design intersect.**
 
 ---
 
 ## Tech Stack
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://skillicons.dev/icons?i=python,js,ts,react,tailwind,vite,fastapi,pytorch,git,github,docker,postgres,vercel,aws&theme=dark&perline=7"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://skillicons.dev/icons?i=python,js,ts,react,tailwind,vite,fastapi,pytorch,git,github,docker,postgres,vercel,aws&theme=light&perline=7"
-    />
-    <img
-      src="https://skillicons.dev/icons?i=python,js,ts,react,tailwind,vite,fastapi,pytorch,git,github,docker,postgres,vercel,aws&theme=dark&perline=7"
-      alt="Tech Stack"
-    />
-  </picture>
-</p>
-
 <div align="center">
 
-**Languages** · Python · JavaScript · TypeScript · HTML · CSS  
-**Frontend** · React · Tailwind CSS · Vite  
-**Backend / AI** · FastAPI · PyTorch · RAG · AI Agents  
-**Tools** · Git · GitHub · Docker · PostgreSQL · Vercel · AWS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 </div>
 
@@ -74,68 +67,71 @@ I enjoy projects where **backend engineering, automation, AI and good product de
 
 ## Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Harsh1t-S/agent-aegis">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh1t-S&repo=agent-aegis&theme=tokyonight&hide_border=true" alt="Aegis repository card" />
-</a>
-<a href="https://github.com/Harsh1t-S/DepthWizard">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh1t-S&repo=DepthWizard&theme=tokyonight&hide_border=true" alt="DepthWizard repository card" />
-</a>
-
-<a href="https://github.com/Harsh1t-S/RAG_with_QueryExpansion_Reranker">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh1t-S&repo=RAG_with_QueryExpansion_Reranker&theme=tokyonight&hide_border=true" alt="RAG repository card" />
-</a>
-<a href="https://github.com/Harsh1t-S/LangGraph_MultiAgentSys">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh1t-S&repo=LangGraph_MultiAgentSys&theme=tokyonight&hide_border=true" alt="LangGraph Multi-Agent repository card" />
-</a>
-
-</div>
-
-### Aegis
+### 🛡️ [Aegis](https://github.com/Harsh1t-S/agent-aegis)
 
 **CI for AI agents.** Generates test suites from an agent's system prompt and tool schema, runs them in a sandbox, catches reliability and safety regressions, and turns failures into actionable reports.
 
-`Python` · `FastAPI` · `React` · `AI Agents` · `PostgreSQL` · `Docker`
+`Python` `FastAPI` `React` `AI Agents` `PostgreSQL` `Docker`
 
 [Repository](https://github.com/Harsh1t-S/agent-aegis) · [Live Demo](https://agent-aegis.vercel.app)
 
-### DepthWizard
+</td>
+<td width="50%" valign="top">
 
-A GPU-aware monocular-depth evaluation workbench for aerial imagery using **Depth Anything V2**, FastAPI, PyTorch and a React/Vite frontend.
+### 🗺️ [DepthWizard](https://github.com/Harsh1t-S/DepthWizard)
 
-`Python` · `PyTorch` · `Computer Vision` · `FastAPI` · `React` · `GPU`
+GPU-aware monocular-depth evaluation workbench for aerial imagery using **Depth Anything V2**, FastAPI, PyTorch and a React/Vite frontend.
+
+`Python` `PyTorch` `Computer Vision` `FastAPI` `React` `GPU`
 
 [Repository](https://github.com/Harsh1t-S/DepthWizard)
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 [RAG + Query Expansion + Reranker](https://github.com/Harsh1t-S/RAG_with_QueryExpansion_Reranker)
+
+A retrieval pipeline exploring query expansion and reranking to improve the relevance of RAG responses.
+
+`Python` `RAG` `Retrieval` `LLMs`
+
+[Repository](https://github.com/Harsh1t-S/RAG_with_QueryExpansion_Reranker)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [LangGraph Multi-Agent System](https://github.com/Harsh1t-S/LangGraph_MultiAgentSys)
+
+Experiments with graph-based multi-agent workflows, orchestration and tool-using AI systems.
+
+`Python` `LangGraph` `Agents` `LLMs`
+
+[Repository](https://github.com/Harsh1t-S/LangGraph_MultiAgentSys)
+
+</td>
+</tr>
+</table>
+
 ---
 
-## GitHub Analytics
+## What I'm Working Toward
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harsh1t-S&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh1t-S&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Top languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh1t-S&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
+```text
+Backend Engineering  ███████████████████░  building deeper systems knowledge
+AI / Agent Systems   ██████████████████░░  RAG, evaluation, orchestration
+DSA                  ███████████████░░░░░  consistency > random grinding
+System Design        ███████████░░░░░░░░░  learning by building
+```
 
 ---
 
 ## Contribution Activity
-
-<div align="center">
-
-[![Harshit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harsh1t-S&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Harsh1t-S)
-
-</div>
-
----
-
-## Contributions, but make it a game
 
 <p align="center">
   <picture>
