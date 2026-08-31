@@ -19,12 +19,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+software+that+solves+real+problems;Backend+%2B+AI+Systems;RAG+%E2%80%A2+Agents+%E2%80%A2+ML+%E2%80%A2+Automation;Always+learning.+Always+shipping."
-      alt="Typing SVG"
-    />
-  </a>
+  <img src="./assets/custom/harshit-terminal.svg" width="100%" alt="HARSHIT.EXE custom developer terminal" />
 </p>
 
 ---
@@ -34,8 +29,8 @@
 I'm a student developer based in India who likes building **real, end-to-end software** — backend APIs, automation, AI systems, ML prototypes and polished web interfaces.
 
 - Building with **Python, FastAPI, React and TypeScript**
-- Exploring **AI agents, RAG, computer vision and applied ML**
-- Interested in backend engineering, reliability and developer tooling
+- Exploring **AI agents, RAG, backend reliability and applied ML**
+- Interested in backend engineering, system design and developer tooling
 - Usually learning by shipping something instead of just watching tutorials
 - When I'm not coding, I'm probably gaming or experimenting with another project
 
@@ -128,14 +123,11 @@ Experiments with graph-based multi-agent workflows, orchestration and tool-using
 
 ---
 
-## What I'm Working Toward
+## Developer Skill Tree
 
-```text
-Backend Engineering  ███████████████████░  building deeper systems knowledge
-AI / Agent Systems   ██████████████████░░  RAG, evaluation, orchestration
-DSA                  ███████████████░░░░░  consistency > random grinding
-System Design        ███████████░░░░░░░░░  learning by building
-```
+<p align="center">
+  <img src="./assets/custom/skill-tree.svg" width="100%" alt="Harshit's custom RPG-style developer skill tree" />
+</p>
 
 ---
 
