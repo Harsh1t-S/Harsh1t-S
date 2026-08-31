@@ -46,19 +46,10 @@ jobs:
             colorScheme: 'dark',
           });
 
-          async function capture(url, output, enhance) {
+          async function capture(url, output) {
             const page = await context.newPage();
             await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 90000 });
             await page.waitForTimeout(7000);
-
-            if (enhance) {
-              try {
-                await enhance(page);
-              } catch (error) {
-                console.log(`Optional interaction skipped for ${url}: ${error.message}`);
-              }
-            }
-
             await page.screenshot({ path: output, fullPage: false });
             console.log(`Captured ${url} -> ${output}`);
             await page.close();
@@ -70,15 +61,8 @@ jobs:
           );
 
           await capture(
-            'https://depth-wizard.vercel.app/',
-            'assets/project-screenshots/depthwizard.png',
-            async (page) => {
-              const demo = page.getByRole('button', { name: /load demo scene/i });
-              if (await demo.count()) {
-                await demo.first().click({ timeout: 5000 });
-                await page.waitForTimeout(7000);
-              }
-            }
+            'https://bracketx.vercel.app/',
+            'assets/project-screenshots/brackets.png'
           );
 
           await browser.close();
