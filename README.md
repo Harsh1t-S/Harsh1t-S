@@ -2,16 +2,6 @@
   <img src="./assets/custom/hero-terminal-v2.svg" width="100%" alt="Harshit — backend and AI systems builder. Orbit, Aegis, and DepthWizard are online." />
 </p>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-kumar-sharma-02b28037a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-harsh1t.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://harsh1t.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitkrsharma07@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=Harsh1t-S&label=Profile%20Views&color=1f6feb&style=flat" alt="Profile Views" />
-
-</div>
-
 <br/>
 
 <p align="center">
@@ -155,11 +145,15 @@ Experiments with graph-based multi-agent workflows, orchestration and tool-using
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshit-kumar-sharma-02b28037a/"><b>LinkedIn</b></a>
-  &nbsp; • &nbsp;
-  <a href="mailto:harshitkrsharma07@gmail.com"><b>Email</b></a>
-  &nbsp; • &nbsp;
-  <a href="https://harsh1t.vercel.app/"><b>Portfolio</b></a>
+  <a href="https://www.linkedin.com/in/harshit-kumar-sharma-02b28037a/">
+    <img src="https://img.shields.io/badge/LinkedIn-%E2%86%97-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://harsh1t.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%E2%86%97-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:harshitkrsharma07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%E2%86%97-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <br/>
