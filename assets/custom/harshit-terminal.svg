@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430" role="img" aria-labelledby="title desc">
+  <title id="title">HARSHIT.EXE developer terminal</title>
+  <desc id="desc">A custom animated terminal introducing Harshit as a backend and AI systems developer.</desc>
+
+  <defs>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1f6feb"/>
+      <stop offset="0.5" stop-color="#8957e5"/>
+      <stop offset="1" stop-color="#2ea043"/>
+    </linearGradient>
+    <linearGradient id="titlebar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#161b22"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="screen"><rect x="24" y="24" width="952" height="382" rx="16"/></clipPath>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+      .muted { fill: #8b949e; }
+      .bright { fill: #e6edf3; }
+      .blue { fill: #58a6ff; }
+      .green { fill: #3fb950; }
+      .purple { fill: #bc8cff; }
+      .yellow { fill: #d29922; }
+      .line { opacity: 0; animation: appear .28s ease forwards; }
+      .l1 { animation-delay: .15s; } .l2 { animation-delay: .45s; } .l3 { animation-delay: .75s; }
+      .l4 { animation-delay: 1.05s; } .l5 { animation-delay: 1.35s; } .l6 { animation-delay: 1.65s; }
+      .l7 { animation-delay: 1.95s; } .l8 { animation-delay: 2.25s; } .l9 { animation-delay: 2.55s; }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      .pulse { animation: pulse 1.8s ease-in-out infinite; transform-origin: center; }
+      .scan { animation: scan 7s linear infinite; opacity: .08; }
+      @keyframes appear { to { opacity: 1; } }
+      @keyframes blink { 0%,47% { opacity: 1; } 48%,100% { opacity: 0; } }
+      @keyframes pulse { 0%,100% { opacity: .45; } 50% { opacity: 1; } }
+      @keyframes scan { from { transform: translateY(-40px); } to { transform: translateY(430px); } }
+      @media (prefers-reduced-motion: reduce) { .line { opacity: 1; animation: none; } .cursor,.pulse,.scan { animation: none; } }
+    </style>
+  </defs>
+
+  <rect width="1000" height="430" rx="22" fill="#0d1117"/>
+  <rect x="10" y="10" width="980" height="410" rx="20" fill="none" stroke="url(#frame)" stroke-width="2" opacity=".8"/>
+  <rect x="24" y="24" width="952" height="382" rx="16" fill="#010409" stroke="#30363d"/>
+  <path d="M40 24h920a16 16 0 0 1 16 16v36H24V40a16 16 0 0 1 16-16z" fill="url(#titlebar)"/>
+
+  <circle cx="52" cy="50" r="7" fill="#f85149"/>
+  <circle cx="76" cy="50" r="7" fill="#d29922"/>
+  <circle cx="100" cy="50" r="7" fill="#3fb950"/>
+  <text x="500" y="57" text-anchor="middle" class="mono muted" font-size="14">HARSHIT.EXE — ~/build/real-things</text>
+
+  <g clip-path="url(#screen)">
+    <rect class="scan" x="24" y="78" width="952" height="34" fill="url(#frame)"/>
+  </g>
+
+  <g class="mono" font-size="18">
+    <g class="line l1"><text x="54" y="112" class="green">harshit@github</text><text x="190" y="112" class="bright">:</text><text x="202" y="112" class="blue">~</text><text x="218" y="112" class="bright">$ whoami</text></g>
+    <g class="line l2"><text x="76" y="143" class="bright">Backend + AI Systems Developer</text><text x="388" y="143" class="muted">// student, builder, professional bug creator</text></g>
+
+    <g class="line l3"><text x="54" y="184" class="green">harshit@github</text><text x="190" y="184" class="bright">:</text><text x="202" y="184" class="blue">~</text><text x="218" y="184" class="bright">$ active_builds --status</text></g>
+    <g class="line l4"><circle class="pulse" cx="84" cy="211" r="5" fill="#3fb950" filter="url(#glow)"/><text x="100" y="217" class="bright">Aegis</text><text x="206" y="217" class="green">ONLINE</text><text x="312" y="217" class="muted">CI for AI agents</text></g>
+    <g class="line l5"><circle class="pulse" cx="84" cy="241" r="5" fill="#58a6ff" filter="url(#glow)"/><text x="100" y="247" class="bright">Brackets</text><text x="206" y="247" class="blue">ONLINE</text><text x="312" y="247" class="muted">full-stack coding practice platform</text></g>
+
+    <g class="line l6"><text x="54" y="288" class="green">harshit@github</text><text x="190" y="288" class="bright">:</text><text x="202" y="288" class="blue">~</text><text x="218" y="288" class="bright">$ current_quests</text></g>
+    <g class="line l7"><text x="76" y="319" class="green">[✓]</text><text x="122" y="319" class="bright">ship real products</text><text x="348" y="319" class="yellow">[~]</text><text x="394" y="319" class="bright">backend depth</text><text x="604" y="319" class="yellow">[~]</text><text x="650" y="319" class="bright">DSA consistency</text></g>
+    <g class="line l8"><text x="76" y="349" class="green">[✓]</text><text x="122" y="349" class="bright">AI agent systems</text><text x="348" y="349" class="yellow">[~]</text><text x="394" y="349" class="bright">system design</text><text x="604" y="349" class="purple">[?]</text><text x="650" y="349" class="bright">next weird project</text></g>
+
+    <g class="line l9"><text x="54" y="389" class="green">harshit@github</text><text x="190" y="389" class="bright">:</text><text x="202" y="389" class="blue">~</text><text x="218" y="389" class="bright">$ build --break --debug --understand --rebuild</text><rect class="cursor" x="742" y="373" width="10" height="20" rx="1" fill="#58a6ff"/></g>
+  </g>
+</svg>
