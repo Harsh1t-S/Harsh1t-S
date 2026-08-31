@@ -9,7 +9,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-kumar-sharma-02b28037a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://harshit-portfolio.myvnc.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://harsh1t.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitkrsharma07@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=Harsh1t-S&label=Profile%20Views&color=1f6feb&style=flat" alt="Profile Views" />
@@ -167,7 +167,7 @@ A GPU-aware monocular-depth evaluation workbench for aerial imagery using **Dept
   &nbsp; • &nbsp;
   <a href="mailto:harshitkrsharma07@gmail.com"><b>Email</b></a>
   &nbsp; • &nbsp;
-  <a href="https://harshit-portfolio.myvnc.com/"><b>Portfolio</b></a>
+  <a href="https://harsh1t.vercel.app/"><b>Portfolio</b></a>
 </p>
 
 <br/>
