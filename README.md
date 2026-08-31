@@ -86,17 +86,17 @@ I'm a student developer based in India who likes building **real, end-to-end sof
 </td>
 <td width="50%" valign="top">
 
-### 🗺️ [DepthWizard](https://github.com/Harsh1t-S/DepthWizard)
+### 💻 [Brackets](https://github.com/Harsh1t-S/Brackets)
 
-<a href="https://depth-wizard.vercel.app">
-  <img src="./assets/project-screenshots/depthwizard.png" width="100%" alt="DepthWizard live workbench" />
+<a href="https://bracketx.vercel.app">
+  <img src="./assets/project-screenshots/brackets.png" width="100%" alt="Brackets coding practice platform" />
 </a>
 
-GPU-aware monocular-depth evaluation workbench for aerial imagery using **Depth Anything V2**, FastAPI, PyTorch and a React/Vite frontend.
+A full-stack **coding-practice platform** with curated problems, an in-browser workspace and progress tracking.
 
-`Python` `PyTorch` `Computer Vision` `FastAPI` `React` `GPU`
+`React` `TypeScript` `Express` `Prisma` `PostgreSQL` `Tailwind`
 
-[Repository](https://github.com/Harsh1t-S/DepthWizard) · [Live Demo](https://depth-wizard.vercel.app)
+[Repository](https://github.com/Harsh1t-S/Brackets) · [Live Demo](https://bracketx.vercel.app)
 
 </td>
 </tr>
