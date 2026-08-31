@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430" role="img" aria-labelledby="title desc">
+  <title id="title">Harshit developer skill tree</title>
+  <desc id="desc">A custom RPG-style developer skill tree showing backend, AI systems, and engineering craft progression.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="core" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#8957e5"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      .edge { stroke: #30363d; stroke-width: 3; fill: none; }
+      .edge.live { stroke: #58a6ff; stroke-dasharray: 9 9; animation: dash 7s linear infinite; }
+      .node { fill: #161b22; stroke: #30363d; stroke-width: 2; }
+      .done { stroke: #3fb950; }
+      .active { stroke: #d29922; }
+      .next { stroke: #8957e5; stroke-dasharray: 5 5; }
+      .pulse { animation: pulse 2s ease-in-out infinite; transform-origin: center; }
+      @keyframes dash { to { stroke-dashoffset: -90; } }
+      @keyframes pulse { 0%,100% { opacity:.55; } 50% { opacity:1; } }
+      @media (prefers-reduced-motion: reduce) { .edge.live,.pulse { animation:none; } }
+    </style>
+  </defs>
+
+  <rect width="1000" height="430" rx="22" fill="url(#bg)"/>
+  <rect x="10" y="10" width="980" height="410" rx="18" fill="none" stroke="#30363d"/>
+
+  <text x="40" y="48" class="sans" fill="#e6edf3" font-size="24" font-weight="700">Developer Skill Tree</text>
+  <text x="40" y="73" class="mono" fill="#8b949e" font-size="13">class: builder  •  specialization: backend + AI systems  •  playstyle: learn by shipping</text>
+
+  <!-- connectors -->
+  <path class="edge live" d="M500 138 C500 175 255 170 255 205"/>
+  <path class="edge live" d="M500 138 C500 175 500 170 500 205"/>
+  <path class="edge live" d="M500 138 C500 175 745 170 745 205"/>
+
+  <path class="edge" d="M255 251 C255 282 155 278 155 315"/>
+  <path class="edge" d="M255 251 C255 282 350 278 350 315"/>
+  <path class="edge" d="M500 251 C500 282 455 278 455 315"/>
+  <path class="edge" d="M500 251 C500 282 590 278 590 315"/>
+  <path class="edge" d="M745 251 C745 282 700 278 700 315"/>
+  <path class="edge" d="M745 251 C745 282 845 278 845 315"/>
+
+  <!-- core -->
+  <rect x="390" y="94" width="220" height="58" rx="14" fill="url(#core)" opacity=".18" stroke="#58a6ff" stroke-width="2" filter="url(#glow)"/>
+  <circle cx="421" cy="123" r="7" fill="#58a6ff" class="pulse"/>
+  <text x="442" y="119" class="sans" fill="#e6edf3" font-size="17" font-weight="700">BUILD REAL THINGS</text>
+  <text x="442" y="138" class="mono" fill="#8b949e" font-size="11">core passive: curiosity + shipping</text>
+
+  <!-- branch headers -->
+  <rect x="155" y="205" width="200" height="46" rx="12" class="node active"/>
+  <text x="255" y="225" text-anchor="middle" class="sans" fill="#e6edf3" font-size="16" font-weight="700">BACKEND</text>
+  <text x="255" y="242" text-anchor="middle" class="mono" fill="#d29922" font-size="10">ACTIVE PATH</text>
+
+  <rect x="400" y="205" width="200" height="46" rx="12" class="node done"/>
+  <text x="500" y="225" text-anchor="middle" class="sans" fill="#e6edf3" font-size="16" font-weight="700">AI SYSTEMS</text>
+  <text x="500" y="242" text-anchor="middle" class="mono" fill="#3fb950" font-size="10">UNLOCKED</text>
+
+  <rect x="645" y="205" width="200" height="46" rx="12" class="node active"/>
+  <text x="745" y="225" text-anchor="middle" class="sans" fill="#e6edf3" font-size="16" font-weight="700">ENGINEERING CRAFT</text>
+  <text x="745" y="242" text-anchor="middle" class="mono" fill="#d29922" font-size="10">LEVELING</text>
+
+  <!-- leaf nodes -->
+  <rect x="80" y="315" width="150" height="64" rx="12" class="node done"/>
+  <text x="155" y="339" text-anchor="middle" class="sans" fill="#e6edf3" font-size="14" font-weight="700">APIs</text>
+  <text x="155" y="359" text-anchor="middle" class="mono" fill="#3fb950" font-size="10">FastAPI • Express</text>
+
+  <rect x="275" y="315" width="150" height="64" rx="12" class="node active"/>
+  <text x="350" y="339" text-anchor="middle" class="sans" fill="#e6edf3" font-size="14" font-weight="700">Databases</text>
+  <text x="350" y="359" text-anchor="middle" class="mono" fill="#d29922" font-size="10">Postgres • Prisma</text>
+
+  <rect x="380" y="315" width="150" height="64" rx="12" class="node done"/>
+  <text x="455" y="339" text-anchor="middle" class="sans" fill="#e6edf3" font-size="14" font-weight="700">RAG + Agents</text>
+  <text x="455" y="359" text-anchor="middle" class="mono" fill="#3fb950" font-size="10">retrieval • evals</text>
+
+  <rect x="515" y="315" width="150" height="64" rx="12" class="node active"/>
+  <text x="590" y="339" text-anchor="middle" class="sans" fill="#e6edf3" font-size="14" font-weight="700">Reliability</text>
+  <text x="590" y="359" text-anchor="middle" class="mono" fill="#d29922" font-size="10">testing • observability</text>
+
+  <rect x="625" y="315" width="150" height="64" rx="12" class="node active"/>
+  <text x="700" y="339" text-anchor="middle" class="sans" fill="#e6edf3" font-size="14" font-weight="700">DSA</text>
+  <text x="700" y="359" text-anchor="middle" class="mono" fill="#d29922" font-size="10">consistency buff</text>
+
+  <rect x="770" y="315" width="150" height="64" rx="12" class="node next"/>
+  <text x="845" y="339" text-anchor="middle" class="sans" fill="#e6edf3" font-size="14" font-weight="700">System Design</text>
+  <text x="845" y="359" text-anchor="middle" class="mono" fill="#bc8cff" font-size="10">NEXT UNLOCK</text>
+
+  <!-- legend/footer -->
+  <circle cx="60" cy="404" r="5" fill="#3fb950"/><text x="72" y="408" class="mono" fill="#8b949e" font-size="10">unlocked</text>
+  <circle cx="145" cy="404" r="5" fill="#d29922"/><text x="157" y="408" class="mono" fill="#8b949e" font-size="10">leveling</text>
+  <circle cx="232" cy="404" r="5" fill="#8957e5"/><text x="244" y="408" class="mono" fill="#8b949e" font-size="10">next</text>
+  <text x="960" y="408" text-anchor="end" class="mono" fill="#484f58" font-size="10">build → break → debug → understand → rebuild</text>
+</svg>
